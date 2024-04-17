@@ -11,6 +11,7 @@ pom.xml.asc
 *.jar
 *.log
 .shadow-cljs
+.clj-kondo
 .idea
 .lein-*
 .nrepl-*
