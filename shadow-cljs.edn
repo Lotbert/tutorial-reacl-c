@@ -11,7 +11,7 @@
  :builds {:app {:target :browser
                 :output-dir "js/"
                 :asset-path "/js"
-                :modules {:main {:entries [main.intro]}}
+                :modules {:main {:entries [main]}}
                 :devtools {:http-port 9600
                            :http-root "."
                            :reload-strategy :full}}}}
