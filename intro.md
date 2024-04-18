@@ -4,4 +4,4 @@
 
 Wir sammeln uns hier, um uns gemeinsam auf funktionale User Interfaces anzuschauen.
 
-Nutze `CTRL+Click` (oder `CMD+Click` unter MacOS), um zu beginnen: [Los gehts!](index.html)
+Nutze `CTRL+Click` (oder `CMD+Click` unter MacOS), um zu beginnen: [Los gehts!](todomvc/index.html)
