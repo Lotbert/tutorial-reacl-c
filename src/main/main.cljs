@@ -4,4 +4,4 @@
 
 (main/run
   (js/document.getElementById "funktionale-user-interfaces")
-  core/app)
+  (core/app))
