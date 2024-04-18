@@ -7,6 +7,6 @@ vscode:
 
 tasks:
     - init: |
-          npm install && npx shadow-cljs compile app
+          cd todomvc && npm install && npx shadow-cljs compile app
     - command: |
-          npx shadow-cljs watch app
+          cd todomvc && npx shadow-cljs watch app
